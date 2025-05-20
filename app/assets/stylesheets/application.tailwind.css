@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+
+@theme {
+  --color-primary-50:  #FFB8B9;
+  --color-primary-100: #FFA3A5;
+  --color-primary-200: #FF7A7D;
+  --color-primary-300: #FF5255;
+  --color-primary-400: #FF292D;
+  --color-primary-500: #FF0005;
+  --color-primary-600: #C70004;
+  --color-primary-700: #8F0003;
+  --color-primary-800: #570002;
+  --color-primary-900: #1F0001;
+  --color-primary-950: #030000;
+  --breakpoint-xs: 30rem;
+}
